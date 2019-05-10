@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* implies margin and padding are no longer part of total height and total width */
+}
+
+body {
+    font-family: "lato", sans-serif;
+    font-size: 12px;
+    line-height: 1.7;
+    padding: 20px;
+}
